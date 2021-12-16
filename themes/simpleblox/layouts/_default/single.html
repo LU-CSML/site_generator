@@ -1,0 +1,11 @@
+{{define "main"}}
+
+
+<h3 class="display-3 text-primary">{{.Title}}</h3>
+<h5 class="display-5 text-primary">{{.Params.Subtitle}}</h5>
+
+{{.Content}}
+
+
+<small>Page created on {{ dateFormat "Monday, Jan 2, 2006" .Params.date }}</small>
+{{end}}

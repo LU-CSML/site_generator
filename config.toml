@@ -1,0 +1,14 @@
+baseurl = ""
+title = "CSML Reading Group"
+author = "Thomas Pinder"
+canonifyurls = true
+paginate = 3
+theme = "simpleblox"
+
+[menu]
+
+
+[params]
+# facebook = "antihacx"
+# twitter = "antihacx"
+github = "STOR-i"

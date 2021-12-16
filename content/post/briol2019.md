@@ -1,0 +1,8 @@
++++
+title = "Statistical Inference for Generative Models with Maximum Mean Discrepancy"
+author = "Francois-Xavier Briol"
+subtitle = "Francois-Xavier Briol"
+date = "2019-10-24"
++++
+
+While likelihood-based inference and its variants provide a statistically efficient and widely applicable approach to parametric inference, their application to models involving intractable likelihoods poses challenges. In this work, we study a class of minimum distance estimators for intractable generative models, that is, statistical models for which the likelihood is intractable, but simulation is cheap. The distance considered, maximum mean discrepancy (MMD), is defined through the embedding of probability measures into a reproducing kernel Hilbert space. We study the theoretical properties of these estimators, showing that they are consistent, asymptotically normal and robust to model misspecification. A main advantage of these estimators is the flexibility offered by the choice of kernel, which can be used to trade-off statistical efficiency and robustness. On the algorithmic side, we study the geometry induced by MMD on the parameter space and use this to introduce a novel natural gradient descent-like algorithm for efficient implementation of these estimators. We illustrate the relevance of our theoretical results on several classes of models including a discrete-time latent Markov process and two multivariate stochastic differential equation models.
