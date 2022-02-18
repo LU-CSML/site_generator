@@ -5,6 +5,46 @@ menu = "main"
 weight = 10
 +++
 
+# 2022
+----
+
+* February 3rd: *Statistical scalability and approximate inference in distributed computing environments* [[arXiv]](https://arxiv.org/abs/2112.15572)
+* Januray 27th: *The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables* [[arXiv]](https://arxiv.org/abs/1611.00712)
+* January 20th: *Non-reversible guided Metropolis kernel* [[arXiv]](https://arxiv.org/abs/2005.05584)
+* January 13th: *The Apogee to Apogee Path Sampler* [[arXiv]](https://arxiv.org/abs/2112.08187)
+
+# 2021
+----
+
+* December 9th: *Metropolis-Hastings with Averaged Acceptance Ratios* [[arXiv]](https://arxiv.org/abs/2101.01253)
+* December 2nd: *Waste-free sequential Monte Carlo* [[araXiv]](https://arxiv.org/abs/2011.02328)
+* November 25th: *Double Control Variates for Gradient Estimation in Discrete Latent Variable Models* [[arXiv]](https://arxiv.org/abs/2111.05300)
+* November 4th: *Approximations of Piecewise Deterministic Markov Processes and their convergence properties* [[arXiv]](https://arxiv.org/abs/2109.11827)
+* October 28th: *Multilevel Linear Models, Gibbs Samplers and Multigrid Decompositions* [[euclid]](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Multilevel-Linear-Models-Gibbs-Samplers-and-Multigrid-Decompositions/10.1214/20-BA1242.full)
+* June 22nd: *Bayesian computation from 1763 to the 21st Century* [[arXiv]](https://arxiv.org/abs/2004.06425)
+* June 10th: *Sequential Monte Carlo algorithms for agent-based models of disease transmission* [[arXiv]](https://arxiv.org/abs/2101.12156)
+* May 27th: *Harold Jeffreys's Theory of Probability Revisited* [[arXiv]](https://arxiv.org/abs/0804.3173)
+* May 13th: *Dynamic Bayesian Neural Networks* [[arXiv]](https://arxiv.org/abs/2004.06963)
+* April 19th: *Inference from Iterative Simulation Using Multiple Sequences* [[euclid]](https://projecteuclid.org/journals/statistical-science/volume-7/issue-4/Inference-from-Iterative-Simulation-Using-Multiple-Sequences/10.1214/ss/1177011136.full)
+* April 19th: *Rank-Normalization, Folding, and Localization: An Improved R for Assessing Convergence of MCMC* [[euclid]](https://projecteuclid.org/journals/bayesian-analysis/volume-16/issue-2/Rank-Normalization-Folding-and-Localization--An-Improved-R%cb%86-for/10.1214/20-BA1221.full)
+* March 4th *Differentiable Particle Filtering via Entropy-Regularized Optimal Transport* [[arXiv]](https://arxiv.org/abs/2102.07850)
+
+# 2020
+----
+
+#### Stein's method
+
+* October 22nd: *The Boomerang Sampler* [[arXiv]](https://arxiv.org/pdf/2006.13777.pdf)
+* October 8th: Coullon and Webber *Ensemble sampler for infinite-dimensional inverse problems* [[arXiv]](https://arxiv.org/abs/2010.15181)
+* September 23rd: *Discontinuous Hamiltonian Monte Carlo for discrete parameters and discontinuous likelihoods* [[arXiv]](https://arxiv.org/pdf/1705.08510.pdf)
+* September 3rd: *Involutive MCMC: a Unifying Framework* [[arXiv]](https://arxiv.org/abs/2006.16653)
+* July 23rd: Hoffman and Ma *Black-Box Variational Inference as Distilled Langevin Dynamics* [[ICML]](https://proceedings.icml.cc/paper/2020/hash/a753a43564c29148df3150afb4475440-Abstract.html)
+* June 11th: Neal *Non-reversibly updating a uniform [0,1] value for Metropolis accept/reject decisions* [[arXiv]](https://arxiv.org/abs/2001.11950)
+* March 12th: Pu et al. *VAE Learning via Stein Variational Gradient Descent* [[arXiv]](https://arxiv.org/abs/1704.05155)
+* February 2nd: Liu and Wang *Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm* [[arXiv]](https://arxiv.org/abs/1608.04471)
+* January 30th: Nemeth *Introduction to Stein's method*
+
+
 # 2019
 ----
 

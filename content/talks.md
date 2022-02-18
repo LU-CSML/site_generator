@@ -4,6 +4,66 @@ date = "2018-12-20"
 menu = "main"
 weight = 20
 +++
+# 2022
+
+- February 17th STOR-i Hub\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lionel Riou-Durand (Warwick university) *Metropolis Adjusted Underdamped Langevin Trajectories: a robust alternative to Hamiltonian Monte-Carlo*
+- Februrary 3th MS Teams\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Sherlock *Statistical scalability and approximate inference in distributed computing environments*
+- January 27th MS Teams\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lorenzo Rimella *The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables*
+- January 20th MS Teams\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Augustin Chevallier *Non-reversible guided Metropolis kernel*
+- January 13th MS Teams\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Szymon Urbas *The Apogee to Apogee Path Sampler*
+
+# 2021
+- December 16th MS Teams\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *NeurIPS papers discussion*
+- December 9th MS Teams\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Sherlock *Metropolis-Hastings with Averaged Acceptance Ratios*
+- December 2nd MS Teams\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Nemeth *Waste-free sequential Monte Carlo*
+- November 25th MS Teams\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sam Power (Bristol university) *Double Control Variates for Gradient Estimation in Discrete Latent Variable Models*
+- November 18th MS Teams\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Nemeth *How do you tune MCMC algorithms?*
+- November 4th MS Teams\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Augustin Chevallier *Approximations of Piecewise Deterministic Markov Processes and their convergence properties*
+- October 28th MS Teams\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paul Fearnhead *Multilevel Linear Models, Gibbs Samplers and Multigrid Decompositions*
+- October 14th MS Teams\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tamas Papp *Estimating Markov chain convergence with empirical Wasserstein distance bounds*
+- June 22nd MS Teams\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gael Martin (Monash University) *landmark papers: Bayesian computation from 1763 to the 21st Century*
+- June 10th MS Teams\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Phyllis Ju (Harward university) *Sequential Monte Carlo algorithms for agent-based models of disease transmission*
+- May 27th MS Teams\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Christian P. Robert (Université Paris-Dauphine) *landmark papers: Harold Jeffreys's Theory of Probability Revisited*
+- May 13th MS Teams\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lorenzo Rimella *Dynamic Bayesian Neural Networks*
+- April 29th MS Teams\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clement Lee *landmark papers: The Gelman-Rubin statistic: old and new*
+- April 15th MS Teams\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; George Bolt *MCMC Sampling and Posterior Inference for a New Metric-Based Network Model*
+- March 25th MS Teams\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jeremie Coullon *landmark papers: the Metropolis sampler (1953)*
+- March 4th MS Teams\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Sherlock *Differentiable Particle Filtering via Entropy-Regularized Optimal Transport*
+
+
+# 2020
+
+- Thursday 19th November MS Teams\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liam Hodgkinson *Stein kernels*
+- Thursday 3rd March 3-4pm PSC Fylde B35\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Nemeth *Deep generative modelling: autoencoders, VAEs, GANs.... and all that jazz! Part 22*
+- Thursday 27th February 3-4pm PSC Lab 2\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Nemeth *Deep generative modelling: autoencoders, VAEs, GANs.... and all that jazz!*
+- Thursday 13th February 3-4pm PSC A54\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leah South *The kernel Stein discrepancy*
+
+
 # 2019
 
 - December 5th 3-4pm PSC A54\
