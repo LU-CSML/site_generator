@@ -8,6 +8,7 @@ weight = 10
 # 2022
 ----
 
+* February 17th: *Metropolis Adjusted Underdamped Langevin Trajectories: a robust alternative to Hamiltonian Monte-Carlo* [[arXiv]](https://arxiv.org/abs/2202.13230)
 * February 3rd: *Statistical scalability and approximate inference in distributed computing environments* [[arXiv]](https://arxiv.org/abs/2112.15572)
 * Januray 27th: *The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables* [[arXiv]](https://arxiv.org/abs/1611.00712)
 * January 20th: *Non-reversible guided Metropolis kernel* [[arXiv]](https://arxiv.org/abs/2005.05584)
