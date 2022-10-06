@@ -6,6 +6,32 @@ weight = 20
 +++
 # 2022
 
+- October 6th  Lecture theatre PSC A54\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Michael Whitehouse (University of Bristol) *Consistent and fast inference in compartmental models of epidemics using PAL*
+- September 29th  STOR-i Hub\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Sherlock *Comparison of Markov chains via weak Poincaré inequalities with application to pseudo-marginal MCMC*
+- September 22nd  STOR-i Hub\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lorenzo Rimella *Inference in Stochastic Epidemic Models via Multinomial Approximations*
+- September 15th  STOR-i Hub\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Nemeth *Metropolis–Hastings via Classification*
+- June 23rd STOR-i Hub\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paul Fearnhead *Non-Reversible Parallel Tempering: a Scalable Highly Parallel MCMC Scheme*
+- June 9th STOR-i Hub\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Augustin Chevallier *Continuously-Tempered PDMP samplers*
+- May 26th STOR-i Hub\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Sherlock *Scalable Importance Tempering and Bayesian Variable Selection*
+- May 5th STOR-i Hub\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Steffen Grünewälder *Compressed Empirical Measures (in finite dimensions)*
+- March 31st STOR-i Hub\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Louis Sharrock (University of Bristol) *Parameter Estimation for the McKean-Vlasov Stochastic Differential Equation*
+- March 24th STOR-i Hub\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alberto Cabezas Gonzalez *Elliptical slice sampling*
+- March 17th STOR-i Hub\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Augustin Chevallier *Slice sampling & PDMP*
+- March 3rd STOR-i Hub\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paul Fearnhead *Boost your favorite MCMC sampler using Kac's theorem: the Kick-Kac teleportation algorithm- Part 2*
+- February 24th STOR-i Hub\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paul Fearnhead *Boost your favorite MCMC sampler using Kac's theorem: the Kick-Kac teleportation algorithm- Part 1*
 - February 17th STOR-i Hub\
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lionel Riou-Durand (Warwick university) *Metropolis Adjusted Underdamped Langevin Trajectories: a robust alternative to Hamiltonian Monte-Carlo*
 - Februrary 3th MS Teams\

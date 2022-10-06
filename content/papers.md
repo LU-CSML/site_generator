@@ -7,8 +7,18 @@ weight = 10
 
 # 2022
 ----
-
-* February 17th: *Metropolis Adjusted Underdamped Langevin Trajectories: a robust alternative to Hamiltonian Monte-Carlo* [[arXiv]](https://arxiv.org/abs/2202.13230)
+* October 6th: *Consistent and fast inference in compartmental models of epidemics using Poisson Approximate Likelihoods* [[arXiv]](https://arxiv.org/pdf/2205.13602.pdf)
+* September 29th: *Comparison of Markov chains via weak Poincaré inequalities with application to pseudo-marginal MCMC* [[arXiv]](https://arxiv.org/abs/2112.05605)
+* September 22nd: *Inference in Stochastic Epidemic Models via Multinomial Approximations* [[AISTAT2021]](http://proceedings.mlr.press/v130/whiteley21a.html#:~:text=Abstract%20We%20introduce%20a%20new%20method%20for%20inference,over%20unobserved%20variables%20and%20thus%20circumvent%20likelihood%20intractability.)
+* September 15th: *Metropolis–Hastings via Classification* [[JASA]](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2060836)
+* June 23rd: *Non-Reversible Parallel Tempering: a Scalable Highly Parallel MCMC Scheme* [[arXiv]](https://arxiv.org/abs/1905.02939)
+* June 9th: *Continuously-Tempered PDMP samplers* [[arXiv]](https://arxiv.org/abs/2205.09559)
+* May 26th: *Scalable Importance Tempering and Bayesian Variable Selection* [[arXiv]](https://arxiv.org/abs/1805.00541)
+* May 5th: *Compressed Empirical Measures (in finite dimensions)* [[arXiv]](https://arxiv.org/pdf/2204.08847.pdf)
+* March 31st: *Parameter Estimation for the McKean-Vlasov Stochastic Differential Equation* [[arXiv]](https://arxiv.org/pdf/2106.13751.pdf)
+* March 24th: *Elliptical slice sampling* [[arXiv]](https://arxiv.org/pdf/1001.0175.pdf)
+* February 24th: *Boost your favorite MCMC sampler using Kac's theorem: the Kick-Kac teleportation algorithm* [[arXiv]](https://arxiv.org/pdf/2201.05002.pdf)
+* February 17th: *Metropolis Adjusted Underdamped Langevin Trajectories: a robust alternative to Hamiltonian Monte-Carlo* [[arXiv]](https://arxiv.org/pdf/2202.13230.pdf)
 * February 3rd: *Statistical scalability and approximate inference in distributed computing environments* [[arXiv]](https://arxiv.org/abs/2112.15572)
 * Januray 27th: *The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables* [[arXiv]](https://arxiv.org/abs/1611.00712)
 * January 20th: *Non-reversible guided Metropolis kernel* [[arXiv]](https://arxiv.org/abs/2005.05584)
