@@ -5,17 +5,7 @@ menu = "main"
 weight = 20
 +++
 # 2022
-- November 24th: Lecture theatre PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sam Power (University of Bristol)
-    *Explicit convergence bounds for Metropolis Markov chains: isoperimetry, spectral gaps and profiles* 
-- November 17th: Lecture theatre PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mauro Camara Escudero (University of Bristol) *Approximate Manifold Sampling* 
-- November 3rd: Lecture theatre PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alexandros Beskos (UCL) *Manifold Markov chain Monte Carlo methods for Bayesian inference in diffusion models* 
-- October 27th: Lecture theatre PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jure Vogrinc (Warwick university) *The Barker proposal: Combining robustness and efficiency in gradient-based MCMC* 
-- October 20th: STOR-i Hub\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paul Fearnhead *Martingale posterior distributions*
+
 - October 6th  Lecture theatre PSC A54\
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Michael Whitehouse (University of Bristol) *Consistent and fast inference in compartmental models of epidemics using PAL*
 - September 29th  STOR-i Hub\
@@ -73,7 +63,7 @@ weight = 20
 - June 22nd MS Teams\
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gael Martin (Monash University) *landmark papers: Bayesian computation from 1763 to the 21st Century*
 - June 10th MS Teams\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Phyllis Ju (Harward university) *Sequential Monte Carlo algorithms for agent-based models of disease transmission*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Phyllis Ju (Harvard university) *Sequential Monte Carlo algorithms for agent-based models of disease transmission*
 - May 27th MS Teams\
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Christian P. Robert (Université Paris-Dauphine) *landmark papers: Harold Jeffreys's Theory of Probability Revisited*
 - May 13th MS Teams\
