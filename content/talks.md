@@ -5,203 +5,298 @@ menu = "main"
 weight = 20
 +++
 # 2022
-
+- November 24th: Lecture theatre PSC A54\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sam Power (University of Bristol)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Explicit convergence bounds for Metropolis Markov chains: isoperimetry, spectral gaps and profiles* 
+- November 17th: Lecture theatre PSC A54\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mauro Camara Escudero (University of Bristol)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Approximate Manifold Sampling* 
+- November 3rd: Lecture theatre PSC A54\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alexandros Beskos (UCL)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Manifold Markov chain Monte Carlo methods for Bayesian inference in diffusion models* 
+- October 27th: Lecture theatre PSC A54\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jure Vogrinc (Warwick university)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The Barker proposal: Combining robustness and efficiency in gradient-based MCMC* 
+- October 20th: STOR-i Hub\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paul Fearnhead\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Martingale posterior distributions*
 - October 6th  Lecture theatre PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Michael Whitehouse (University of Bristol) *Consistent and fast inference in compartmental models of epidemics using PAL*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Michael Whitehouse (University of Bristol)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Consistent and fast inference in compartmental models of epidemics using PAL*
 - September 29th  STOR-i Hub\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Sherlock *Comparison of Markov chains via weak Poincaré inequalities with application to pseudo-marginal MCMC*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Sherlock\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Comparison of Markov chains via weak Poincaré inequalities with application to pseudo-marginal MCMC*
 - September 22nd  STOR-i Hub\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lorenzo Rimella *Inference in Stochastic Epidemic Models via Multinomial Approximations*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lorenzo Rimella\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Inference in Stochastic Epidemic Models via Multinomial Approximations*
 - September 15th  STOR-i Hub\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Nemeth *Metropolis–Hastings via Classification*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Nemeth\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Metropolis–Hastings via Classification*
 - June 23rd STOR-i Hub\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paul Fearnhead *Non-Reversible Parallel Tempering: a Scalable Highly Parallel MCMC Scheme*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paul Fearnhead\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Non-Reversible Parallel Tempering: a Scalable Highly Parallel MCMC Scheme*
 - June 9th STOR-i Hub\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Augustin Chevallier *Continuously-Tempered PDMP samplers*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Augustin Chevallier\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Continuously-Tempered PDMP samplers*
 - May 26th STOR-i Hub\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Sherlock *Scalable Importance Tempering and Bayesian Variable Selection*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Sherlock\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Scalable Importance Tempering and Bayesian Variable Selection*
 - May 5th STOR-i Hub\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Steffen Grünewälder *Compressed Empirical Measures (in finite dimensions)*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Steffen Grünewälder\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Compressed Empirical Measures (in finite dimensions)*
 - March 31st STOR-i Hub\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Louis Sharrock (University of Bristol) *Parameter Estimation for the McKean-Vlasov Stochastic Differential Equation*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Louis Sharrock (University of Bristol)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Parameter Estimation for the McKean-Vlasov Stochastic Differential Equation*
 - March 24th STOR-i Hub\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alberto Cabezas Gonzalez *Elliptical slice sampling*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alberto Cabezas Gonzalez\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Elliptical slice sampling*
 - March 17th STOR-i Hub\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Augustin Chevallier *Slice sampling & PDMP*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Augustin Chevallier\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Slice sampling & PDMP*
 - March 3rd STOR-i Hub\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paul Fearnhead *Boost your favorite MCMC sampler using Kac's theorem: the Kick-Kac teleportation algorithm- Part 2*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paul Fearnhead\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Boost your favorite MCMC sampler using Kac's theorem: the Kick-Kac teleportation algorithm- Part 2*
 - February 24th STOR-i Hub\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paul Fearnhead *Boost your favorite MCMC sampler using Kac's theorem: the Kick-Kac teleportation algorithm- Part 1*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paul Fearnhead\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Boost your favorite MCMC sampler using Kac's theorem: the Kick-Kac teleportation algorithm- Part 1*
 - February 17th STOR-i Hub\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lionel Riou-Durand (Warwick university) *Metropolis Adjusted Underdamped Langevin Trajectories: a robust alternative to Hamiltonian Monte-Carlo*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lionel Riou-Durand (Warwick university)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Metropolis Adjusted Underdamped Langevin Trajectories: a robust alternative to Hamiltonian Monte-Carlo*
 - Februrary 3th MS Teams\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Sherlock *Statistical scalability and approximate inference in distributed computing environments*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Sherlock\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Statistical scalability and approximate inference in distributed computing environments*
 - January 27th MS Teams\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lorenzo Rimella *The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lorenzo Rimella\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables*
 - January 20th MS Teams\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Augustin Chevallier *Non-reversible guided Metropolis kernel*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Augustin Chevallier\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Non-reversible guided Metropolis kernel*
 - January 13th MS Teams\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Szymon Urbas *The Apogee to Apogee Path Sampler*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Szymon Urbas\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The Apogee to Apogee Path Sampler*
 
 # 2021
 - December 16th MS Teams\
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *NeurIPS papers discussion*
 - December 9th MS Teams\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Sherlock *Metropolis-Hastings with Averaged Acceptance Ratios*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Sherlock\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Metropolis-Hastings with Averaged Acceptance Ratios*
 - December 2nd MS Teams\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Nemeth *Waste-free sequential Monte Carlo*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Nemeth\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Waste-free sequential Monte Carlo*
 - November 25th MS Teams\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sam Power (Bristol university) *Double Control Variates for Gradient Estimation in Discrete Latent Variable Models*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sam Power (University of Bristol)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Double Control Variates for Gradient Estimation in Discrete Latent Variable Models*
 - November 18th MS Teams\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Nemeth *How do you tune MCMC algorithms?*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Nemeth\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *How do you tune MCMC algorithms?*
 - November 4th MS Teams\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Augustin Chevallier *Approximations of Piecewise Deterministic Markov Processes and their convergence properties*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Augustin Chevallier\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Approximations of Piecewise Deterministic Markov Processes and their convergence properties*
 - October 28th MS Teams\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paul Fearnhead *Multilevel Linear Models, Gibbs Samplers and Multigrid Decompositions*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paul Fearnhead\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Multilevel Linear Models, Gibbs Samplers and Multigrid Decompositions*
 - October 14th MS Teams\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tamas Papp *Estimating Markov chain convergence with empirical Wasserstein distance bounds*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tamas Papp\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Estimating Markov chain convergence with empirical Wasserstein distance bounds*
 - June 22nd MS Teams\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gael Martin (Monash University) *landmark papers: Bayesian computation from 1763 to the 21st Century*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gael Martin (Monash University)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *landmark papers: Bayesian computation from 1763 to the 21st Century*
 - June 10th MS Teams\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Phyllis Ju (Harward university) *Sequential Monte Carlo algorithms for agent-based models of disease transmission*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Phyllis Ju (Harward university)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Sequential Monte Carlo algorithms for agent-based models of disease transmission*
 - May 27th MS Teams\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Christian P. Robert (Université Paris-Dauphine) *landmark papers: Harold Jeffreys's Theory of Probability Revisited*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Christian P. Robert (Université Paris-Dauphine)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *landmark papers: Harold Jeffreys's Theory of Probability Revisited*
 - May 13th MS Teams\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lorenzo Rimella *Dynamic Bayesian Neural Networks*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lorenzo Rimella\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dynamic Bayesian Neural Networks*
 - April 29th MS Teams\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clement Lee *landmark papers: The Gelman-Rubin statistic: old and new*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clement Lee\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *landmark papers: The Gelman-Rubin statistic: old and new*
 - April 15th MS Teams\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; George Bolt *MCMC Sampling and Posterior Inference for a New Metric-Based Network Model*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; George Bolt\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *MCMC Sampling and Posterior Inference for a New Metric-Based Network Model*
 - March 25th MS Teams\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jeremie Coullon *landmark papers: the Metropolis sampler (1953)*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jeremie Coullon\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *landmark papers: the Metropolis sampler (1953)*
 - March 4th MS Teams\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Sherlock *Differentiable Particle Filtering via Entropy-Regularized Optimal Transport*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Sherlock\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Differentiable Particle Filtering via Entropy-Regularized Optimal Transport*
 
 
 # 2020
 
 - Thursday 19th November MS Teams\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liam Hodgkinson *Stein kernels*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liam Hodgkinson\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Stein kernels*
 - Thursday 3rd March 3-4pm PSC Fylde B35\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Nemeth *Deep generative modelling: autoencoders, VAEs, GANs.... and all that jazz! Part 22*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Nemeth\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Deep generative modelling: autoencoders, VAEs, GANs.... and all that jazz! Part 22*
 - Thursday 27th February 3-4pm PSC Lab 2\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Nemeth *Deep generative modelling: autoencoders, VAEs, GANs.... and all that jazz!*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Nemeth\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Deep generative modelling: autoencoders, VAEs, GANs.... and all that jazz!*
 - Thursday 13th February 3-4pm PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leah South *The kernel Stein discrepancy*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leah South\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The kernel Stein discrepancy*
 
 
 # 2019
 
 - December 5th 3-4pm PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paul Fearnhead *Zig Zag Sampler* 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paul Fearnhead\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Zig Zag Sampler* 
 - November 7th 3-4pm PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jeremias Knoblauch *Generalized variational inference*  [[Abstract](../post/knoblauch2019)] | [[Slides]](../../pdf/gvi_slides.pdf)
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jeremias Knoblauch\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Generalized variational inference*  [[Abstract](../post/knoblauch2019)] | [[Slides]](../../pdf/gvi_slides.pdf)
 - November 24th 3-4pm PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Francois-Xavier Briol *Statistical Inference for Generative Models with Maximum Mean Discrepancy*  [[Abstract](../post/briol2019)]
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Francois-Xavier Briol\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Statistical Inference for Generative Models with Maximum Mean Discrepancy*  [[Abstract](../post/briol2019)]
 - October 9th 1.30pm-2.30pm PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Magnus Rattray *Using Gaussian processes to infer pseudotime and branching from single-cell data.*  [[Abstract](../post/rattray2019)]
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Magnus Rattray\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Using Gaussian processes to infer pseudotime and branching from single-cell data.*  [[Abstract](../post/rattray2019)]
 - September 20th 3pm-4pm PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sam Livingstone *On the robustness of gradient-based MCMC algorithms.*  [[Abstract](../post/livingstone2019)]
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sam Livingstone\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *On the robustness of gradient-based MCMC algorithms.*  [[Abstract](../post/livingstone2019)]
 <!-- - August 8th 3pm-4pm STOR-i Hub\
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Sherlock *Introduction to the Wasserstein distance.*\[[Resources](../post/sherlock_resources)] -->
 - August 1st 3pm-4pm STOR-i Hub\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leah South *Variance reduction in MCMC.*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leah South\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Variance reduction in MCMC.*
 - June 13th 3pm-4pm PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clement Lee *Clustering approach and MCMC practicalities of stochastic block models.*\[[Abstract](../post/lee2019)]
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clement Lee\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Clustering approach and MCMC practicalities of stochastic block models.*\[[Abstract](../post/lee2019)]
 - May 9th 3pm-4pm PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nick Tawn *The Annealed Leap Point Sampler (ALPS) for multimodal target distributions.*\[[Abstract](../post/tawn2019)]
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nick Tawn\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The Annealed Leap Point Sampler (ALPS) for multimodal target distributions.*\[[Abstract](../post/tawn2019)]
 - March 28th, 3pm-4pm STOR-i Hub\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Callum Vyner  *An Introduction to Divide-and-Conquer MCMC.*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Callum Vyner\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *An Introduction to Divide-and-Conquer MCMC.*
 - February 28th, 3pm-4pm PSC A54\
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Matthew Ludkin *Hug 'N' Hop: Explicit, non-reversible, contour-hugging MCMC.*
 - February 14th, 3pm-4pm STOR-i Boardroom\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Henry Moss *An Intro to Information-Driven Bayesian Optimisation*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Henry Moss\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *An Intro to Information-Driven Bayesian Optimisation*
 
 # 2018
 
 -   December 13th, 3pm-4pm PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arnaud Doucet *On discrete-time piecewise-deterministic MCMC schemes*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arnaud Doucet\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *On discrete-time piecewise-deterministic MCMC schemes*
 -   December 5th, 3pm-4pm PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Louis Aslett *Privacy and Security in Bayesian Inference*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Louis Aslett\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Privacy and Security in Bayesian Inference*
 -   November 15th, 3pm-4pm PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chris Sherlock *The Minimal Extended Statespace Algorithm for exact inference on Markov jump processes*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Sherlock\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The Minimal Extended Statespace Algorithm for exact inference on Markov jump processes*
 
 # 2017
 
 -   Decmber 7th, 3pm-4pm PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gareth Ridall *Sequential Bayesian estimation and model selection* \[[Abstract](../post/ridall2017)]
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gareth Ridall\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Sequential Bayesian estimation and model selection* \[[Abstract](../post/ridall2017)]
 -   November 29th, 11am-12pm PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chris Nemeth *Pseudo-extended MCMC* \[[Abstract](../post/nemeth2017)]
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Nemeth\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Pseudo-extended MCMC* \[[Abstract](../post/nemeth2017)]
 -   November 9th, 3pm-4pm PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Luke Kelly *Lateral trait transfer in phylogenetic inference* \[[Abstract](../post/kelly2017)]
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Luke Kelly\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Lateral trait transfer in phylogenetic inference* \[[Abstract](../post/kelly2017)]
 -   November 1st, 2pm-3pm PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yee Whye Teh *On Bayesian Deep Learning and Deep Bayesian Learning* \[[Abstract](../post/teh2017)]
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yee Whye Teh\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *On Bayesian Deep Learning and Deep Bayesian Learning* \[[Abstract](../post/teh2017)]
 -   May 18th, 2pm-4pm PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chris Sherlock *Asymptotic variance and geometric convergence of MCMC: variational representations*  \[[Abstract](../post/sherlock2017b)]
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Sherlock\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Asymptotic variance and geometric convergence of MCMC: variational representations*  \[[Abstract](../post/sherlock2017b)]
 -   January 26th, 2pm PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chris Sherlock *Delayed-acceptance MCMC with examples: advantages and pitfalls and how to avoid the latter* \[[Abstract](../../post/sherlock2017a)]
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Sherlock\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Delayed-acceptance MCMC with examples: advantages and pitfalls and how to avoid the latter* \[[Abstract](../../post/sherlock2017a)]
 
 # 2016
 
 -   December 6th, 2pm PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jack Baker *An overview of Bayesian non-parametrics*.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jack Baker\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *An overview of Bayesian non-parametrics*.
 -   November 11th, 2pm PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wentao Li *Improved Convergence of Regression Adjusted Approximate Bayesian Computation*.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wentao Li\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Improved Convergence of Regression Adjusted Approximate Bayesian Computation*.
 -   October 20th, 2pm PSC Lab2\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paul Fearnhead *The Scalable Langevin Exact Algorithm: Bayesian Inference for Big Data*.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paul Fearnhead\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The Scalable Langevin Exact Algorithm: Bayesian Inference for Big Data*.
 -   July 2nd, 2pm B49\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adam Johansen *The iterated auxiliary particle filter*.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Adam Johansen\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The iterated auxiliary particle filter*.
 -   May 19th, 2pm PSC Lab2\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chris Sherlock *Pseudo-marginal MCMC using averages of unbiased estimators*.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Sherlock\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Pseudo-marginal MCMC using averages of unbiased estimators*.
 -   May 9th, 2pm PSC LT\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Joris Bierkens (Warwick University) *Super-efficient sampling using Zig Zag Monte Carlo*.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Joris Bierkens\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Warwick University) *Super-efficient sampling using Zig Zag Monte Carlo*.
 -   April 14th, 2pm PSC Lab1\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paul Fearnhead *Research opportunities with MCMC and Big Data*.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paul Fearnhead\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Research opportunities with MCMC and Big Data*.
 -   March 17th, 2pm PSC LT\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Peter Neal *Optimal scaling of the independence sampler*.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peter Neal\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Optimal scaling of the independence sampler*.
 -   February 25th, 2pm PSC LT\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paul Fearnhead *Continuous-Time Importance Sampling (and MCMC)*.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paul Fearnhead\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Continuous-Time Importance Sampling (and MCMC)*.
 -   February 18th, 2pm PSC LT\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Borja de Balle Pigem *Differentially Private Policy Evaluation*.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Borja de Balle Pigem\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Differentially Private Policy Evaluation*.
 
 ## 2015
 
 -   December 10th, 2pm PSC LT\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jack Baker *STAN*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jack Baker\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *STAN*
 -   November 26th, 2pm PSC Lab2\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paul Fearnhead *Discussion of "The Bouncy Particle Sampler: A Non-Reversible Rejection-Free Markov Chain Monte Carlo Method"* \[[arXiv](http://arxiv.org/abs/1510.02451)] *and of "A Markov Jump Process for More Efficient Hamiltonian Monte Carlo"* \[[arXiv](http://arxiv.org/pdf/1509.03808.pdf)].
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paul Fearnhead\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Discussion of "The Bouncy Particle Sampler: A Non-Reversible Rejection-Free Markov Chain Monte Carlo Method"* \[[arXiv](http://arxiv.org/abs/1510.02451)] *and of "A Markov Jump Process for More Efficient Hamiltonian Monte Carlo"* \[[arXiv](http://arxiv.org/pdf/1509.03808.pdf)].
 -   October 15th, 2pm PSC LT.\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;James Hensman. *Variational inference in Gaussian process models*.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; James Hensman\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Variational inference in Gaussian process models*.
 -   May 19th, 12pm PSC LT.\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alexandre Thiery (National University of Singapore). *Asymptotic Analysis of Random-Walk Metropolis on Ridged Densities*.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alexandre Thiery\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (National University of Singapore). *Asymptotic Analysis of Random-Walk Metropolis on Ridged Densities*.
 -   April 28th, 1pm PSC LT.\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chris Sherlock. *Delayed acceptance particle marginal random walk Metropolis algorithms and their optimisation*.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Sherlock\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Delayed acceptance particle marginal random walk Metropolis algorithms and their optimisation*.
 -   March 5th, 2pm PSC LT.\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chris Nemeth. *Bayesian Inference for Big Data: Current and Future Directions*.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Nemeth\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Bayesian Inference for Big Data: Current and Future Directions*.
 
 # 2014
 
 -   Decmber 18th, 2pm PSC LT.\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wentao Li. *Discussion of the RSS read paper: "Sequential Quasi Monte Carlo" by Mathieu Gerber and Nicolas Chopin.*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wentao Li\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Discussion of the RSS read paper: "Sequential Quasi Monte Carlo" by Mathieu Gerber and Nicolas Chopin.*
 -   November 28th, 11am PSC LT.\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chris Nemeth. *Particle Metropolis adjusted Langevin algorithms*.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Nemeth\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Particle Metropolis adjusted Langevin algorithms*.
 -   March 11th, 2pm PSC LT.\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paul Fearnhead. *Reparameterisations for Particle MCMC*.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paul Fearnhead\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Reparameterisations for Particle MCMC*.
 -   February 25th, 2pm PSC LT.\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vasileios Maroulas (University of Tennessee). *Filtering, drift homotopy and target tracking*.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vasileios Maroulas\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (University of Tennessee). *Filtering, drift homotopy and target tracking*.
 
 # 2013
 
 -   Dember 11th, 1pm PSC LT.\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dennis Prangle (Universtity of Bristol). *Speeding ABC inference using early-stopping simulations*.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dennis Prangle\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Universtity of Bristol). *Speeding ABC inference using early-stopping simulations*.
 -   May 9th, 2pm PSC LT.\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chris Sherlock. *Properties and Optimisation of the Pseudo Marginal RWM.*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Sherlock\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Properties and Optimisation of the Pseudo Marginal RWM.*
 -   April 17th, 2pm PSC LT.\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anthony Lee (University of Warwick). *Particle Markov chain Monte Carlo and marginal likelihood estimation: strategies for improvement.*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Anthony Lee (University of Warwick)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Particle Markov chain Monte Carlo and marginal likelihood estimation: strategies for improvement.*
 -   March 22nd\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dennis Prangle. *Likelihood-free parameter estimation for state space models*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dennis Prangle\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Likelihood-free parameter estimation for state space models*
 -   February 20th\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Joe Mellor (University of Manchester). *Thompson Sampling in Switching Environments with Bayesian Online Change Point Detection*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Joe Mellor (University of Manchester)\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Thompson Sampling in Switching Environments with Bayesian Online Change Point Detection*
 
 # 2012
 
