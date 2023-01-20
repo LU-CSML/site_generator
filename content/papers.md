@@ -7,6 +7,13 @@ weight = 10
 
 # 2022
 ----
+* December 15th *Coupling MCMC algorithms in high dimensions* [[arXiv]](https://arxiv.org/pdf/2211.12585.pdf)
+* November 24th: *Explicit convergence bounds for Metropolis Markov chains:
+isoperimetry, spectral gaps and profiles* [[arXiv]](https://arxiv.org/pdf/2211.08959.pdf)
+* November 3rd: *Manifold Markov chain Monte Carlo methods for Bayesian
+inference in diffusion models* [[arXiv]](https://arxiv.org/pdf/1912.02982.pdf)
+* October 27th: *The Barker proposal: Combining robustness and efficiency in gradient-based MCMC* [[JRSSB]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9303935/)
+* October 20th: *Martingale posterior distributions* [[arXiv]](https://arxiv.org/pdf/2103.15671.pdf)
 * October 6th: *Consistent and fast inference in compartmental models of epidemics using Poisson Approximate Likelihoods* [[arXiv]](https://arxiv.org/pdf/2205.13602.pdf)
 * September 29th: *Comparison of Markov chains via weak Poincaré inequalities with application to pseudo-marginal MCMC* [[arXiv]](https://arxiv.org/abs/2112.05605)
 * September 22nd: *Inference in Stochastic Epidemic Models via Multinomial Approximations* [[AISTAT2021]](http://proceedings.mlr.press/v130/whiteley21a.html#:~:text=Abstract%20We%20introduce%20a%20new%20method%20for%20inference,over%20unobserved%20variables%20and%20thus%20circumvent%20likelihood%20intractability.)
