@@ -4,6 +4,25 @@ date = "2018-12-20"
 menu = "main"
 weight = 20
 +++
+# 2023
+- March 2nd: STOR-i boardroom \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Chris Sherlock 
+    *KSD for dummies*
+- February 23rd: Lecture theatre PSC A54\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Victor Elvira (University of Edinburgh)
+    *State-Space Models as Graphs* [[arXiv](https://arxiv.org/pdf/2209.09969.pdf)]
+- February 16th: Lecture theatre PSC A54\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Sam Livingstone (University College London)
+    *Pre-conditioning in Markov chain Monte Carlo* [[Ongoing work](https://samueljlivingstone.wixsite.com/webpage)]
+- January 26th: STOR-i Hub\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Estevao Batista Do Prado
+    *Bayesian additive regression trees (BART)* [[Ann. Appl. Stat. ](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-4/issue-1/BART-Bayesian-additive-regression-trees/10.1214/09-AOAS285.full)], [[JASA](https://www.tandfonline.com/doi/pdf/10.1080/01621459.1998.10473750)]
+- January 19th: STOR-i Hub\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alberto Cabezas Gonzalez
+    *Stereographic Markov Chain Monte Carlo* [[arXiv](https://arxiv.org/pdf/2205.12112.pdf)]
+- January 12th: Lecture theatre PSC A54\
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alexander Terenin (University of Cambridge)
+    *Pathwise Conditioning and Non-Euclidean Gaussian Processes* [[arXiv](https://arxiv.org/pdf/2202.10613.pdf)]
 # 2022
 - December 15th: STOR-i Hub\
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tamas Papp

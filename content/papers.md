@@ -5,6 +5,8 @@ menu = "main"
 weight = 10
 +++
 
+Discussed papers before 1st January 2023, for up-to-date papers, please refer to the links provided on the Talks webpage.
+
 # 2022
 ----
 * December 15th *Coupling MCMC algorithms in high dimensions* [[arXiv]](https://arxiv.org/pdf/2211.12585.pdf)
