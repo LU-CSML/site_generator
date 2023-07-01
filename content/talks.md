@@ -5,24 +5,45 @@ menu = "main"
 weight = 20
 +++
 # 2023
+- June 29th: STOR-i boardroom \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tamas Papp \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Introduction to diffusion generative models* 
+- June 22nd: STOR-i boardroom \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Chris Sherlock \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Fast return-level estimates for flood insurance via an improved Bennett inequality for random variables with differing upper bounds* [[Ongoing work](https://www.maths.lancs.ac.uk/~sherlocc/)]
+- June 15th: STOR-i boardroom \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Alice Corbella (University of Warwick) \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *The Lifebelt Particle Filter for robust estimation from low-valued count data* [[arXiv](https://arxiv.org/pdf/2212.04400.pdf)]
+- June 8th: STOR-i boardroom \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Francesca Panero (London School of Economics) \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Modelling sparse networks with Bayesian nonparametrics* [[Ongoing work](https://francescapanero.github.io/)]
+- May 18th: STOR-i boardroom \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Lorenzo Rimella \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Localised filtering algorithm: the BPF and the Graph Filter* [[BPF](https://arxiv.org/pdf/1301.6585.pdf)] [[Graph Filter](https://www.jmlr.org/papers/volume23/19-267/19-267.pdf)]
+- May 11th: STOR-i boardroom \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Francesca Crucinio (ENSAE) \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Divide-and-Conquer SMC with applications to high dimensional filtering* [[Statistica Sinica](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0243_na.pdf)]
+- April 27th: STOR-i boardroom \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Paul Fearnhead \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Automatic Differentiation of Programs with Discrete Randomness* [[NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2022/hash/43d8e5fc816c692f342493331d5e98fc-Abstract-Conference.html)]
 - March 2nd: STOR-i boardroom \
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Chris Sherlock 
-    *KSD for dummies*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Chris Sherlock \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *KSD for dummies*
 - February 23rd: Lecture theatre PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Victor Elvira (University of Edinburgh)
-    *State-Space Models as Graphs* [[arXiv](https://arxiv.org/pdf/2209.09969.pdf)]
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Victor Elvira (University of Edinburgh) \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *State-Space Models as Graphs* [[arXiv](https://arxiv.org/pdf/2209.09969.pdf)]
 - February 16th: Lecture theatre PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Sam Livingstone (University College London)
-    *Pre-conditioning in Markov chain Monte Carlo* [[Ongoing work](https://samueljlivingstone.wixsite.com/webpage)]
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Sam Livingstone (University College London) \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Pre-conditioning in Markov chain Monte Carlo* [[Ongoing work](https://samueljlivingstone.wixsite.com/webpage)]
 - January 26th: STOR-i Hub\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Estevao Batista Do Prado
-    *Bayesian additive regression trees (BART)* [[Ann. Appl. Stat. ](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-4/issue-1/BART-Bayesian-additive-regression-trees/10.1214/09-AOAS285.full)], [[JASA](https://www.tandfonline.com/doi/pdf/10.1080/01621459.1998.10473750)]
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Estevao Batista Do Prado \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Bayesian additive regression trees (BART)* [[Ann. Appl. Stat. ](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-4/issue-1/BART-Bayesian-additive-regression-trees/10.1214/09-AOAS285.full)], [[JASA](https://www.tandfonline.com/doi/pdf/10.1080/01621459.1998.10473750)]
 - January 19th: STOR-i Hub\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alberto Cabezas Gonzalez
-    *Stereographic Markov Chain Monte Carlo* [[arXiv](https://arxiv.org/pdf/2205.12112.pdf)]
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alberto Cabezas Gonzalez \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Stereographic Markov Chain Monte Carlo* [[arXiv](https://arxiv.org/pdf/2205.12112.pdf)]
 - January 12th: Lecture theatre PSC A54\
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alexander Terenin (University of Cambridge)
-    *Pathwise Conditioning and Non-Euclidean Gaussian Processes* [[arXiv](https://arxiv.org/pdf/2202.10613.pdf)]
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alexander Terenin (University of Cambridge) \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Pathwise Conditioning and Non-Euclidean Gaussian Processes* [[arXiv](https://arxiv.org/pdf/2202.10613.pdf)]
 # 2022
 - December 15th: STOR-i Hub\
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tamas Papp
