@@ -5,11 +5,11 @@ menu = "main"
 weight = 10
 +++
 
-Discussed papers before 1st January 2023, for up-to-date papers, please refer to the links provided on the Talks webpage.
+Discussed papers before 1st January 2023. For up-to-date papers, please refer to the links provided on the Talks webpage.
 
 # 2022
 ----
-* December 15th *Coupling MCMC algorithms in high dimensions* [[arXiv]](https://arxiv.org/pdf/2211.12585.pdf)
+* December 15th: *Coupling MCMC algorithms in high dimensions* [[arXiv]](https://arxiv.org/pdf/2211.12585.pdf)
 * November 24th: *Explicit convergence bounds for Metropolis Markov chains:
 isoperimetry, spectral gaps and profiles* [[arXiv]](https://arxiv.org/pdf/2211.08959.pdf)
 * November 3rd: *Manifold Markov chain Monte Carlo methods for Bayesian

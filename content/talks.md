@@ -4,13 +4,115 @@ date = "2018-12-20"
 menu = "main"
 weight = 20
 +++
+# 2024
+----
+- June 27th: STOR-i boardroom \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chris Sherlock \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Tuning pseudo-marginal Metropolis-Hastings: a vase or two faces?* [work in progress]
+
+- June 20th: STOR-i boardroom \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Claire Gormley \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Bayesian nonparametric modelling of network data* [[Bayesian Analysis](https://arxiv.org/pdf/2211.13034)]
+
+- June 13th: STOR-i boardroom \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Saifuddin Syed \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Scaling inference of MCMC algorithms with parallel computing* [[JRSSB](https://academic.oup.com/jrsssb/article/84/2/321/7056147)]
+
+- June 6th: STOR-i boardroom \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rui Zhang \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Unadjusted Barker as an SDE Numerical Scheme* [[arxiv](https://arxiv.org/pdf/2405.14373)]
+
+- May 16th: STOR-i boardroom \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wentao Li \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Optimal combination of composite likelihoods using approximate Bayesian computation with application to state-space models* [[arxiv](https://arxiv.org/pdf/2404.02313)]
+
+- May 9th: STOR-i boardroom \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gabriel Wallin \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Rotation to Sparse Loadings using Lp Losses and Related Inference Problems* [[arxiv](https://arxiv.org/pdf/2206.02263)]
+
+- April 11th: A53 (PSC) \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; François-Xavier Briol \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Robust and conjugate Gaussian process regression* [[arxiv](https://arxiv.org/pdf/2311.00463.pdf)]
+
+- March 21st: STOR-i boardroom \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leandro Marcolino \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Identifying Adversaries in Ad-hoc Domains Using Q-valued Bayesian Estimations* [[AAMAS](https://yelkhatib.github.io/papers/Alves2024amongus.pdf)]
+
+- March 14th: A53 (PSC) \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Theo Papamarkou \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Aspects of sampling-based inference for Bayesian neural networks*
+
+- March 7th: STOR-i boardroom \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tamas Papp \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Simulating the independence sampler parallel-in-time* [work in progress]
+
+- February 22nd: STOR-i boardroom \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Francesco Barile \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Flexible modeling of heterogeneous populations of networks: a Bayesian nonparametric approach* [work in progress]
+
+- February 15th: Lecture Theatre (PSC) \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kamélia Daudel \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Alpha-divergence Variational Inference Meets Importance Weighted Auto-Encoders: Methodology and Asymptotics* [[JMLR](https://www.jmlr.org/papers/volume24/22-1160/22-1160.pdf)]
+
+- February 8th: STOR-i boardroom \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Estevão Prado \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Accounting for shared covariates in semi-parametric Bayesian additive regression trees* [[arxiv](https://arxiv.org/pdf/2108.07636.pdf)]
+
+- February 1st: STOR-i boardroom \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Lorenzo Rimella \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *A State-Space Perspective on Modelling and Inference for Online Skill Rating* [[arxiv](https://arxiv.org/pdf/2308.02414.pdf)]
+
 # 2023
+----
+
+- December 14th: A54 (PSC) \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Chris Jewell \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Data Augmentation MCMC on epidemic models* [work in progress]
+
+- December 7th: A54 (PSC) \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Marina Riabiz \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Optimal Thinning of MCMC Output* [[JRSSB](https://academic.oup.com/jrsssb/article/84/4/1059/7073269)]
+
+- November 30th: A53 (PSC) \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Lorenzo Rimella \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Simulation Based Composite Likelihood* [[arxiv](https://arxiv.org/pdf/2310.10761.pdf)]
+
+- November 23rd: A53 (PSC) \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Andy Wang \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Comparison theorems for Hybrid Slice Sampling* [work in progress]
+
+- November 16th: STOR-i boardroom \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Chris Sherlock \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Ensemble Kalman filter*
+
+- November 9th: STOR-i boardroom \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Chris Nemeth \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Bayesian Flow Networks* [[arXiv](https://arxiv.org/pdf/2308.07037.pdf)]
+
+- November 2nd: A54 (PSC) \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Aretha Teckentrup \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Gaussian processes, inverse problems and Markov chain Monte Carlo*
+
+- October 26th: STOR-i boardroom \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Sam Holdstock \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Improved inference for stochastic kinetic models with small observation error via partial Rao-Blackwellisation* [work in progress] 
+
+- October 19th: STOR-i boardroom \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Estevão Prado \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Metropolis-Hastings with fast, flexible sub-sampling* [work in progress]
+
+- October 12th: STOR-i boardroom \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Alberto Cabezas \
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Composable Inference in BlackJAX*
+
 - June 29th: STOR-i boardroom \
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Tamas Papp \
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Introduction to diffusion generative models* 
+
 - June 22nd: STOR-i boardroom \
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Chris Sherlock \
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *Fast return-level estimates for flood insurance via an improved Bennett inequality for random variables with differing upper bounds* [[Ongoing work](https://www.maths.lancs.ac.uk/~sherlocc/)]
+
 - June 15th: STOR-i boardroom \
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Alice Corbella (University of Warwick) \
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *The Lifebelt Particle Filter for robust estimation from low-valued count data* [[arXiv](https://arxiv.org/pdf/2212.04400.pdf)]
